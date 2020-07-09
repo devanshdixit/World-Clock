@@ -1,6 +1,6 @@
 # World Clock
 
-In this application, time is shown according to the limited time zone available, this is - Inspired ord
+In this application, time is shown according to the limited time zone available, this is - [Inspired] ord
 
 ## Getting Started
 
