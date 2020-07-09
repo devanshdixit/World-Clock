@@ -1,6 +1,6 @@
 # World Clock
 
-In this application, time is shown according to the limited time zone available, this is - [Inspired] ord
+In this application, time is shown according to the limited time zone available, this is "Inspired" by [Flutter Introduction Course](https://www.youtube.com/playlist?list=PL4cUxeGkcC9jLYyp2Aoh6hcWuxFDX6PBJ) on [netninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg) youtube channel. It covered basics of flutter and the working mechanism. And I took the efforts to just comment on it being an "Computer Engineering" then you must believe it is good and go subscribe he needs it.Bye
 
 ## Getting Started
 
