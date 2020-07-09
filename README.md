@@ -1,6 +1,6 @@
-# theninjaclock
+# World Clock
 
-A new Flutter application.
+In this application, time is shown according to the limited time zone available, this is ### Inspired ord
 
 ## Getting Started
 
